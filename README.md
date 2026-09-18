@@ -1,5 +1,5 @@
 <!-- ========================================== -->
-<!-- 🖤 DARK THEME README — AkshBuilds -->
+<!-- 🖤 DARK THEME README — Himanshi -->
 <!-- Colors: BG #0D1117 | Cyan #00f0ff | Purple #8a2be2 | Pink #ff0055 -->
 <!-- ========================================== -->
 
@@ -23,7 +23,7 @@
 <br/><br/>
 
 <!-- SOCIAL LINKS -->
-<a href="https://akshbuilds.tech" target="_blank">
+<a href="https://himanshi.tech" target="_blank">
   <img src="https://img.shields.io/badge/🌐_akshbuilds.tech-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00f0ff" alt="Website" />
 </a>
 <a href="mailto:sharmahimanshi6387gmail.com">
@@ -64,7 +64,7 @@
 
 > *बलिदान परमो धर्मः 🇮🇳 — Duty • Discipline • Code*
 
-Hey! I'm **Aksh**, a full-stack developer dedicated to building high-performance web applications, optimizing backend architectures, and mastering algorithmic systems. I design, code, and deploy everything from scratch — focusing on **scalability**, **security**, and **clean architecture**.
+Hey! I'm **Himanshi**, a full-stack developer dedicated to building high-performance web applications, optimizing backend architectures, and mastering algorithmic systems. I design, code, and deploy everything from scratch — focusing on **scalability**, **security**, and **clean architecture**.
 
 - 🌱 **Primary Focus**: Full-stack web development, backend engineering & system design
 - 🌐 **Mission**: Building & sharing open-source tools on [akshbuilds.tech](https://akshbuilds.tech)
@@ -76,7 +76,7 @@ Hey! I'm **Aksh**, a full-stack developer dedicated to building high-performance
 ### 🌟 Key Highlights
 - 🏆 **1,000+** GitHub Contributions — active every day
 - ♟️ Built **Premium-Chess Engine** — multiplayer game hub
-- 🚀 Creator & admin of **akshbuilds.tech** utilities hub
+- 🚀 Creator & admin of **himanshi.tech** utilities hub
 - 📊 **5k+** community members
 
 </td>
@@ -101,7 +101,7 @@ Hey! I'm **Aksh**, a full-stack developer dedicated to building high-performance
 
 ```js
 const aksh = {
-    currentlyBuilding: "akshbuilds.tech v2.0 — Full Utilities Hub 🚀",
+    currentlyBuilding: "himanshi.tech v2.0 — Full Utilities Hub 🚀",
     learning: ["System Design", "DevOps", "Cloud (AWS/GCP)"],
     askMeAbout: ["React", "Next.js", "Node.js", "DSA", "System Design"],
     funFact: "I mass mass solve algorithms for breakfast ☕",
@@ -252,8 +252,8 @@ const aksh = {
 
 <br/>
 
-<a href="https://akshbuilds.tech" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-akshbuilds.tech-0D1117?style=for-the-badge&logo=firefox-browser&logoColor=00f0ff" />
+<a href="https://himanshi.tech" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-himanshi.tech-0D1117?style=for-the-badge&logo=firefox-browser&logoColor=00f0ff" />
 </a>
 <a href="mailto:sharmahimanshi6387@gmail.com">
   <img src="https://img.shields.io/badge/Email-sharmahimanshi6387-0D1117?style=for-the-badge&logo=gmail&logoColor=ff0055" />
@@ -267,7 +267,7 @@ const aksh = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=⚡%20Built%20with%20❤️%20by%20AkshBuilds&fontSize=16&fontColor=c9d1d9&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=⚡%20Built%20with%20❤️%20by%20HimanshiBuilds&fontSize=16&fontColor=c9d1d9&animation=twinkling" width="100%" />
 
 </div>## Hi there 👋
 
